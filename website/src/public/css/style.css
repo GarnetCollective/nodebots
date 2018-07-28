@@ -1,0 +1,17 @@
+body{
+  background: #fedd00;
+}
+.jumbotron{
+    margin: 0em 0 200px;
+    text-align: center;
+    height: 250px;
+    background: #222 url('../images/header.svg');
+}
+
+.jumbotron img{
+  height: 300px;
+}
+
+.card-img-top:hover{
+  box-shadow: 0 15px 35px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.07)
+}
